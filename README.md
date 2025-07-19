@@ -1,2 +1,2 @@
-# SimpleBlogSystem1
+# SimpleBlogSystem
 A Simple Blog System
